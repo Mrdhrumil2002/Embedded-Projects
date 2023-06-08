@@ -1,0 +1,10 @@
+17:05:59 **** Incremental Build of configuration Debug for project PWMUvisionInput2 ****
+make -j12 all 
+arm-none-eabi-size   PWMUvisionInput2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  39288	    152	   3776	  43216	   a8d0	PWMUvisionInput2.elf
+Finished building: default.size.stdout
+ 
+
+17:05:59 Build Finished. 0 errors, 0 warnings. (took 537ms)
+
